@@ -1,0 +1,21 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.9.4",
+    "heartbeatAt": "2022-10-15T23:51:14.463800",
+    "startedAt": "2022-10-15T23:51:10.805760",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "Lecture_4-jvsc-8946484d-5abe-43cf-9c12-85e716b04c6f6a24a9cc-26da-4bbd-8ed0-c66a7940986a.ipynb",
+    "root": "/Users/maxcasas/Documents/Portfolio/Courses/CS_197_Harvard_AI_Research_Experiences",
+    "git": {
+        "remote": "https://github.com/MAXCASMAR/CS_197_Harvard_AI_Research_Experiences.git",
+        "commit": "58e8e0c558b33dc33e8d60700edc4514d6c75b89"
+    },
+    "email": "mcasasma@itam.mx",
+    "host": "Maximilianos-MacBook-Air.local",
+    "username": "maxcasas",
+    "executable": "/Users/maxcasas/.pyenv/versions/tests_aladdin_max/bin/python"
+}
